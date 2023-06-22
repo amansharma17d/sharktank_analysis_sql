@@ -1,6 +1,6 @@
 # sharktank_analysis_sql
 
-"Data Analysis of Shark Tank" project utilizes SQL and Power BI to analyze and derive valuable insights from the popular TV show "Shark Tank." By combining the power of SQL for data manipulation and Power BI for visualization, this project aims to uncover patterns, trends, and key factors that contribute to the success or failure of businesses presented on the show.
+"Shark Tank Analysis" project utilizes SQL and Power BI to analyze and derive valuable insights from the popular TV show "Shark Tank." By combining the power of SQL for data manipulation and Power BI for visualization, this project aims to uncover patterns, trends, and key factors that contribute to the success or failure of businesses presented on the show.
 
 The rationale behind this project is to gain a comprehensive understanding of the entrepreneurial landscape depicted in Shark Tank. By leveraging SQL, the project explores a vast amount of data related to the pitches, products, investments, and outcomes from various episodes of the show. The data could be sourced from publicly available datasets or extracted through web scraping techniques.
 
